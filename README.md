@@ -68,6 +68,7 @@ npm run dev
 # 4. Executar os testes
 npm run test
 
+```
 ## Demonstração
 
 ### Modo Claro
