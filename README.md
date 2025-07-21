@@ -57,7 +57,7 @@ O objetivo deste projeto foi aplicar conhecimentos avançados de React na constr
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/deborajaldir/Pokedex-React.git
-cd pokedex
+cd Pokedex-React/pokedex
 
 # 2. Instale as dependências
 npm install
@@ -67,3 +67,11 @@ npm run dev
 
 # 4. Executar os testes
 npm run test
+
+## Demonstração
+
+### Modo Claro
+![Modo Claro](./src/assets/Modo%20Claro.PNG)
+
+### Modo Escuro
+![Modo Escuro](./src/assets/Modo%20Escuro.PNG)

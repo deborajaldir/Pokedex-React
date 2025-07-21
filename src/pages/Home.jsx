@@ -177,7 +177,7 @@ function Home() {
 
   return (
     <Wrapper>
-      <Title>Pokémons</Title>
+      <Title>Pokemons</Title>
 
       <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
         <select
