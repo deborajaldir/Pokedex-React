@@ -71,7 +71,7 @@ npm run test
 ## Demonstração
 
 ### Modo Claro
-![Modo Claro](./src/assets/Modo%20Claro.PNG)
+![Modo Claro](./src/assets/Modo-Claro.PNG)
 
 ### Modo Escuro
-![Modo Escuro](./src/assets/Modo%20Escuro.PNG)
+![Modo Escuro](./src/assets/Modo-Escuro.PNG)
